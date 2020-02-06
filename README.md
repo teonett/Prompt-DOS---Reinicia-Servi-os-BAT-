@@ -1,4 +1,4 @@
-# Prompt-DOS - Wiindows 
+# Prompt-DOS - Windows 
 Reinicia-Serviçoos-BAT
 
 
